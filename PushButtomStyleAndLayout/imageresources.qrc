@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/images/8be18094-a9f6-46ad-9b2b-90f88a054d75.png</file>
+        <file>resources/images/097c5d0f-1ed8-4cdd-bd7b-911829b7d10b.png</file>
+        <file>resources/images/242476d6-a274-4f73-9983-2733d47c07a7.png</file>
+        <file>resources/images/f52d316e-8fc1-4600-af8f-44af88ba6416.png</file>
+        <file>resources/images/f62cab82-7bbb-4f7f-a507-eef58d1c18db.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>389</width>
+    <height>259</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QFrame" name="frame">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>20</y>
+     <width>351</width>
+     <height>221</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-style:solid;
+border-width:5px;
+border-color:black;</string>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="KsPushButton" name="pushButton">
+      <property name="minimumSize">
+       <size>
+        <width>0</width>
+        <height>50</height>
+       </size>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">border-color:red;
+border-width:10px;</string>
+      </property>
+      <property name="text">
+       <string>PushButton 1</string>
+      </property>
+      <property name="icon">
+       <iconset resource="imageresources.qrc">
+        <normaloff>:/resources/images/f62cab82-7bbb-4f7f-a507-eef58d1c18db.png</normaloff>:/resources/images/f62cab82-7bbb-4f7f-a507-eef58d1c18db.png</iconset>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>KsPushButton</class>
+   <extends>QPushButton</extends>
+   <header>kspushbutton.h</header>
+  </customwidget>
+ </customwidgets>
+ <resources>
+  <include location="imageresources.qrc"/>
+ </resources>
+ <connections/>
+</ui>

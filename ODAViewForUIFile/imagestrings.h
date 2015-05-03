@@ -1,0 +1,86 @@
+#ifndef IMAGESTRINGS
+#define IMAGESTRINGS
+
+
+#define FISK_COMMAND_SHOW_V_ICON             ":/resources/images/show_v.png"
+#define FISK_COMMAND_SHOW_V_ORANGE_ICON      ":/resources/images/show_v_255_128_0.png"
+#define FISK_COMMAND_SHOW_V_DARKORANGE_ICON  ":/resources/images/show_v_255_100_0.png"
+#define FISK_COMMAND_SHOW_V_60_ICON          ":/resources/images/show_v_60_60_60.png"
+#define FISK_COMMAND_SHOW_V_40_ICON          ":/resources/images/show_v_40_40_40.png"
+#define FISK_COMMAND_SHOW_V_BLACK_ICON          ":/resources/images/show_v_0_0_0.png"
+#define FISK_COMMAND_HIDE_V_ICON             ":/resources/images/hide_v.png"
+
+#define FISK_COMMAND_SHOW_H_ICON               ":/resources/images/show_h.png"
+#define FISK_COMMAND_SHOW_H_GRAY_ICON          ":/resources/images/show_h_100_100_100.png"
+#define FISK_COMMAND_SHOW_H_60_ICON            ":/resources/images/show_h_60_60_60.png"
+#define FISK_COMMAND_SHOW_H_40_ICON            ":/resources/images/show_h_40_40_40.png"
+#define FISK_COMMAND_SHOW_H_BLACK_ICON            ":/resources/images/show_h_0_0_0.png"
+#define FISK_COMMAND_SHOW_H_ORANGE_ICON        ":/resources/images/show_h_255_128_0.png"
+#define FISK_COMMAND_SHOW_H_DARKORANGE_ICON    ":/resources/images/show_h_255_100_0.png"
+#define FISK_COMMAND_HIDE_H_ICON               ":/resources/images/hide_h.png"
+
+#define FISK_SNAP_CONFIG_ICON               ":/resources/images/snap_config.png"
+#define FISK_SNAP_CONFIG_GRAY_ICON          ":/resources/images/snap_config_100_100_100.png"
+#define FISK_SNAP_CONFIG_GRAY_60_ICON       ":/resources/images/snap_config_60_60_60.png"
+#define FISK_SNAP_CONFIG_GRAY_40_ICON       ":/resources/images/snap_config_40_40_40.png"
+#define FISK_SNAP_CONFIG_BLACK_ICON       ":/resources/images/snap_config_0_0_0.png"
+#define FISK_SNAP_CONFIG_ORANGE_ICON        ":/resources/images/snap_config_255_128_0.png"
+#define FISK_SNAP_CONFIG_DARKORANGE_ICON    ":/resources/images/snap_config_255_100_0.png"
+#define FISK_SNAP_CONFIG_SELECTED_ICON      ":/resources/images/snap_config_yellow.png"
+
+#define FISK_ROTATION_VIEW_ICON             ":/resources/images/rotation_view.png"
+#define FISK_ROTATION_VIEW_GRAY_ICON        ":/resources/images/rotation_view_100_100_100.png"
+#define FISK_ROTATION_VIEW_GRAY_60_ICON     ":/resources/images/rotation_view_60_60_60.png"
+#define FISK_ROTATION_VIEW_GRAY_40_ICON     ":/resources/images/rotation_view_40_40_40.png"
+#define FISK_ROTATION_VIEW_BLACK_ICON     ":/resources/images/rotation_view_0_0_0.png"
+#define FISK_ROTATION_VIEW_ORANGE_ICON      ":/resources/images/rotation_view_255_128_0.png"
+#define FISK_ROTATION_VIEW_DARKORANGE_ICON  ":/resources/images/rotation_view_255_100_0.png"
+#define FISK_ROTATION_VIEW_SELECTED_ICON    ":/resources/images/rotation_view.png"
+
+#define FISK_MEASURE_ICON                   ":/resources/images/measure.png"
+#define FISK_MEASURE_GRAY_ICON              ":/resources/images/measure_100_100_100.png"
+#define FISK_MEASURE_GRAY_60_ICON           ":/resources/images/measure_60_60_60.png"
+#define FISK_MEASURE_GRAY_40_ICON           ":/resources/images/measure_40_40_40.png"
+#define FISK_MEASURE_BLACK_ICON           ":/resources/images/measure_0_0_0.png"
+#define FISK_MEASURE_ORANGE_ICON            ":/resources/images/measure_255_128_0.png"
+#define FISK_MEASURE_DARKORANGE_ICON        ":/resources/images/measure_255_100_0.png"
+#define FISK_MEASURE_SELECTED_ICON          ":/resources/images/measure_yellow.png"
+
+#define FISK_COLOR_SETTING_ICON             ":/resources/images/color_setting.png"
+#define FISK_COLOR_SETTING_GRAY_ICON        ":/resources/images/color_setting_100_100_100.png"
+#define FISK_COLOR_SETTING_GRAY_60_ICON     ":/resources/images/color_setting_60_60_60.png"
+#define FISK_COLOR_SETTING_GRAY_40_ICON     ":/resources/images/color_setting_40_40_40.png"
+#define FISK_COLOR_SETTING_BLACK_ICON     ":/resources/images/color_setting_0_0_0.png"
+#define FISK_COLOR_SETTING_ORANGE_ICON      ":/resources/images/color_setting_255_128_0.png"
+#define FISK_COLOR_SETTING_DARKORANGE_ICON  ":/resources/images/color_setting_255_100_0.png"
+#define FISK_COLOR_SETTING_SELECTED_ICON    ":/resources/images/color_setting_yellow.png"
+
+#define FISK_CODE_FILTER_ICON               ":/resources/images/code_filter.png"
+#define FISK_CODE_FILTER_GRAY_ICON          ":/resources/images/code_filter_100_100_100.png"
+#define FISK_CODE_FILTER_GRAY_60_ICON       ":/resources/images/code_filter_60_60_60.png"
+#define FISK_CODE_FILTER_GRAY_40_ICON       ":/resources/images/code_filter_40_40_40.png"
+#define FISK_CODE_FILTER_BLACK_ICON       ":/resources/images/code_filter_0_0_0.png"
+#define FISK_CODE_FILTER_ORANGE_ICON        ":/resources/images/code_filter_255_128_0.png"
+#define FISK_CODE_FILTER_DARKORANGE_ICON    ":/resources/images/code_filter_255_100_0.png"
+#define FISK_CODE_FILTER_SELECT_ICON        ":/resources/images/code_filter_yellow.png"
+
+#define FISK_ZOOM_RECT_ICON                 ":/resources/images/zoom_rect.png"
+#define FISK_ZOOM_RECT_GRAY_ICON            ":/resources/images/zoom_rect_100_100_100.png"
+#define FISK_ZOOM_RECT_GRAY_60_ICON         ":/resources/images/zoom_rect_60_60_60.png"
+#define FISK_ZOOM_RECT_GRAY_40_ICON         ":/resources/images/zoom_rect_40_40_40.png"
+#define FISK_ZOOM_RECT_BLACK_ICON         ":/resources/images/zoom_rect_0_0_0.png"
+#define FISK_ZOOM_RECT_ORANGE_ICON          ":/resources/images/zoom_rect_255_128_0.png"
+#define FISK_ZOOM_RECT_DARKORANGE_ICON      ":/resources/images/zoom_rect_255_100_0.png"
+#define FISK_ZOOM_RECT_SELECTED_ICON        ":/resources/images/zoom_rect_yellow.png"
+
+#define FISK_ZOOM_ALL_ICON                  ":/resources/images/zoom_all.png"
+#define FISK_ZOOM_ALL_GRAY_ICON             ":/resources/images/zoom_all_100_100_100.png"
+#define FISK_ZOOM_ALL_ORANGE_ICON           ":/resources/images/zoom_all_255_128_0.png"
+#define FISK_ZOOM_ALL_DARKORANGE_ICON       ":/resources/images/zoom_all_255_100_0.png"
+#define FISK_ZOOM_ALL_GRAY_60_ICON          ":/resources/images/zoom_all_60_60_60.png"
+#define FISK_ZOOM_ALL_GRAY_40_ICON          ":/resources/images/zoom_all_40_40_40.png"
+#define FISK_ZOOM_ALL_BLACK_ICON          ":/resources/images/zoom_all_0_0_0.png"
+
+
+#endif // IMAGESTRINGS
+
